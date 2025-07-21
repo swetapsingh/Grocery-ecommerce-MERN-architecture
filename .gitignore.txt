@@ -1,0 +1,17 @@
+# Ignore node modules
+node_modules/
+
+# Ignore dotenv and secret config
+.env
+.env.local
+
+# Ignore build output
+dist/
+build/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
